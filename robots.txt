@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://toundanest.github.io/sitemap.html
+Sitemap: https://toundanest.github.io/app/sitemap.html
+Sitemap: https://toundanest.github.io/assets/sitemap.html
+Sitemap: https://toundanest.github.io/includes/sitemap.html
+Sitemap: https://toundanest.github.io/src/sitemap.html
